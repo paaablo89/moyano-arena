@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: 5f157acd8f5ad0c40af94efbfb9dedaa
+timeCreated: 1476794323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Mega Man 2 - Enemies_0
+    21300002: NES - Mega Man 2 - Enemies_1
+    21300004: NES - Mega Man 2 - Enemies_2
+    21300006: NES - Mega Man 2 - Enemies_3
+    21300008: NES - Mega Man 2 - Enemies_4
+    21300010: NES - Mega Man 2 - Enemies_5
+    21300012: NES - Mega Man 2 - Enemies_6
+    21300014: NES - Mega Man 2 - Enemies_7
+    21300016: NES - Mega Man 2 - Enemies_8
+    21300018: NES - Mega Man 2 - Enemies_9
+    21300020: NES - Mega Man 2 - Enemies_10
+    21300022: NES - Mega Man 2 - Enemies_11
+    21300024: NES - Mega Man 2 - Enemies_12
+    21300026: NES - Mega Man 2 - Enemies_13
+    21300028: NES - Mega Man 2 - Enemies_14
+    21300030: NES - Mega Man 2 - Enemies_15
+    21300032: NES - Mega Man 2 - Enemies_16
+    21300034: NES - Mega Man 2 - Enemies_17
+    21300036: NES - Mega Man 2 - Enemies_18
+    21300038: NES - Mega Man 2 - Enemies_19
+    21300040: NES - Mega Man 2 - Enemies_20
+    21300042: NES - Mega Man 2 - Enemies_21
+    21300044: NES - Mega Man 2 - Enemies_22
+    21300046: NES - Mega Man 2 - Enemies_23
+    21300048: NES - Mega Man 2 - Enemies_24
+    21300050: NES - Mega Man 2 - Enemies_25
+    21300052: NES - Mega Man 2 - Enemies_26
+    21300054: NES - Mega Man 2 - Enemies_27
+    21300056: NES - Mega Man 2 - Enemies_28
+    21300058: NES - Mega Man 2 - Enemies_29
+    21300060: NES - Mega Man 2 - Enemies_30
+    21300062: NES - Mega Man 2 - Enemies_31
+    21300064: NES - Mega Man 2 - Enemies_32
+    21300066: NES - Mega Man 2 - Enemies_33
+    21300068: NES - Mega Man 2 - Enemies_34
+    21300070: NES - Mega Man 2 - Enemies_35
+    21300072: NES - Mega Man 2 - Enemies_36
+    21300074: NES - Mega Man 2 - Enemies_37
+    21300076: NES - Mega Man 2 - Enemies_38
+    21300078: NES - Mega Man 2 - Enemies_39
+    21300080: NES - Mega Man 2 - Enemies_40
+    21300082: NES - Mega Man 2 - Enemies_41
+    21300084: NES - Mega Man 2 - Enemies_42
+    21300086: NES - Mega Man 2 - Enemies_43
+    21300088: NES - Mega Man 2 - Enemies_44
+    21300090: NES - Mega Man 2 - Enemies_45
+    21300092: NES - Mega Man 2 - Enemies_46
+    21300094: NES - Mega Man 2 - Enemies_47
+    21300096: NES - Mega Man 2 - Enemies_48
+    21300098: NES - Mega Man 2 - Enemies_49
+    21300100: NES - Mega Man 2 - Enemies_50
+    21300102: NES - Mega Man 2 - Enemies_51
+    21300104: NES - Mega Man 2 - Enemies_52
+    21300106: NES - Mega Man 2 - Enemies_53
+    21300108: NES - Mega Man 2 - Enemies_54
+    21300110: NES - Mega Man 2 - Enemies_55
+    21300112: NES - Mega Man 2 - Enemies_56
+    21300114: NES - Mega Man 2 - Enemies_57
+    21300116: NES - Mega Man 2 - Enemies_58
+    21300118: NES - Mega Man 2 - Enemies_59
+    21300120: NES - Mega Man 2 - Enemies_60
+    21300122: NES - Mega Man 2 - Enemies_61
+    21300124: NES - Mega Man 2 - Enemies_62
+    21300126: NES - Mega Man 2 - Enemies_63
+    21300128: NES - Mega Man 2 - Enemies_64
+    21300130: NES - Mega Man 2 - Enemies_65
+    21300132: NES - Mega Man 2 - Enemies_66
+    21300134: NES - Mega Man 2 - Enemies_67
+    21300136: NES - Mega Man 2 - Enemies_68
+    21300138: NES - Mega Man 2 - Enemies_69
+    21300140: NES - Mega Man 2 - Enemies_70
+    21300142: NES - Mega Man 2 - Enemies_71
+    21300144: NES - Mega Man 2 - Enemies_72
+    21300146: NES - Mega Man 2 - Enemies_73
+    21300148: NES - Mega Man 2 - Enemies_74
+    21300150: NES - Mega Man 2 - Enemies_75
+    21300152: NES - Mega Man 2 - Enemies_76
+    21300154: NES - Mega Man 2 - Enemies_77
+    21300156: NES - Mega Man 2 - Enemies_78
+    21300158: NES - Mega Man 2 - Enemies_79
+    21300160: NES - Mega Man 2 - Enemies_80
+    21300162: NES - Mega Man 2 - Enemies_81
+    21300164: NES - Mega Man 2 - Enemies_82
+    21300166: NES - Mega Man 2 - Enemies_83
+    21300168: NES - Mega Man 2 - Enemies_84
+    21300170: NES - Mega Man 2 - Enemies_85
+    21300172: NES - Mega Man 2 - Enemies_86
+    21300174: NES - Mega Man 2 - Enemies_87
+    21300176: NES - Mega Man 2 - Enemies_88
+    21300178: NES - Mega Man 2 - Enemies_89
+    21300180: NES - Mega Man 2 - Enemies_90
+    21300182: NES - Mega Man 2 - Enemies_91
+    21300184: NES - Mega Man 2 - Enemies_92
+    21300186: NES - Mega Man 2 - Enemies_93
+    21300188: NES - Mega Man 2 - Enemies_94
+    21300190: NES - Mega Man 2 - Enemies_95
+    21300192: NES - Mega Man 2 - Enemies_96
+    21300194: NES - Mega Man 2 - Enemies_97
+    21300196: NES - Mega Man 2 - Enemies_98
+    21300198: NES - Mega Man 2 - Enemies_99
+    21300200: NES - Mega Man 2 - Enemies_100
+    21300202: NES - Mega Man 2 - Enemies_101
+    21300204: NES - Mega Man 2 - Enemies_102
+    21300206: NES - Mega Man 2 - Enemies_103
+    21300208: NES - Mega Man 2 - Enemies_104
+    21300210: NES - Mega Man 2 - Enemies_105
+    21300212: NES - Mega Man 2 - Enemies_106
+    21300214: NES - Mega Man 2 - Enemies_107
+    21300216: NES - Mega Man 2 - Enemies_108
+    21300218: NES - Mega Man 2 - Enemies_109
+    21300220: NES - Mega Man 2 - Enemies_110
+    21300222: NES - Mega Man 2 - Enemies_111
+    21300224: NES - Mega Man 2 - Enemies_112
+    21300226: NES - Mega Man 2 - Enemies_113
+    21300228: NES - Mega Man 2 - Enemies_114
+    21300230: NES - Mega Man 2 - Enemies_115
+    21300232: NES - Mega Man 2 - Enemies_116
+    21300234: NES - Mega Man 2 - Enemies_117
+    21300236: NES - Mega Man 2 - Enemies_118
+    21300238: NES - Mega Man 2 - Enemies_119
+    21300240: NES - Mega Man 2 - Enemies_120
+    21300242: NES - Mega Man 2 - Enemies_121
+    21300244: NES - Mega Man 2 - Enemies_122
+    21300246: NES - Mega Man 2 - Enemies_123
+    21300248: NES - Mega Man 2 - Enemies_124
+    21300250: NES - Mega Man 2 - Enemies_125
+    21300252: NES - Mega Man 2 - Enemies_126
+    21300254: NES - Mega Man 2 - Enemies_127
+    21300256: NES - Mega Man 2 - Enemies_128
+    21300258: NES - Mega Man 2 - Enemies_129
+    21300260: NES - Mega Man 2 - Enemies_130
+    21300262: NES - Mega Man 2 - Enemies_131
+    21300264: NES - Mega Man 2 - Enemies_132
+    21300266: NES - Mega Man 2 - Enemies_133
+    21300268: NES - Mega Man 2 - Enemies_134
+    21300270: NES - Mega Man 2 - Enemies_135
+    21300272: NES - Mega Man 2 - Enemies_136
+    21300274: NES - Mega Man 2 - Enemies_137
+    21300276: NES - Mega Man 2 - Enemies_138
+    21300278: NES - Mega Man 2 - Enemies_139
+    21300280: NES - Mega Man 2 - Enemies_140
+    21300282: NES - Mega Man 2 - Enemies_141
+    21300284: NES - Mega Man 2 - Enemies_142
+    21300286: NES - Mega Man 2 - Enemies_143
+    21300288: NES - Mega Man 2 - Enemies_144
+    21300290: NES - Mega Man 2 - Enemies_145
+    21300292: NES - Mega Man 2 - Enemies_146
+    21300294: NES - Mega Man 2 - Enemies_147
+    21300296: NES - Mega Man 2 - Enemies_148
+    21300298: NES - Mega Man 2 - Enemies_149
+    21300300: NES - Mega Man 2 - Enemies_150
+    21300302: NES - Mega Man 2 - Enemies_151
+    21300304: NES - Mega Man 2 - Enemies_152
+    21300306: NES - Mega Man 2 - Enemies_153
+    21300308: NES - Mega Man 2 - Enemies_154
+    21300310: NES - Mega Man 2 - Enemies_155
+    21300312: NES - Mega Man 2 - Enemies_156
+    21300314: NES - Mega Man 2 - Enemies_157
+    21300316: NES - Mega Man 2 - Enemies_158
+    21300318: NES - Mega Man 2 - Enemies_159
+    21300320: NES - Mega Man 2 - Enemies_160
+    21300322: NES - Mega Man 2 - Enemies_161
+    21300324: NES - Mega Man 2 - Enemies_162
+    21300326: NES - Mega Man 2 - Enemies_163
+    21300328: NES - Mega Man 2 - Enemies_164
+    21300330: NES - Mega Man 2 - Enemies_165
+    21300332: NES - Mega Man 2 - Enemies_166
+    21300334: NES - Mega Man 2 - Enemies_167
+    21300336: NES - Mega Man 2 - Enemies_168
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Mega Man 2 - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 800
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 802
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 804
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 799
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 800
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 798
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 798
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 797
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 798
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 750
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 750
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 19}
+        - {x: -16, y: 19}
+        - {x: -16, y: -19}
+        - {x: 10, y: -19}
+        - {x: 13, y: -16}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+    - name: NES - Mega Man 2 - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 750
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 15}
+        - {x: 7, y: 11}
+        - {x: 10, y: 15}
+        - {x: 10, y: 17}
+        - {x: 9, y: 19}
+        - {x: -7, y: 19}
+        - {x: -8, y: 18}
+        - {x: -14, y: 9}
+        - {x: -16, y: -6}
+        - {x: -16, y: -19}
+        - {x: 15, y: -19}
+        - {x: 16, y: -17}
+        - {x: 16, y: 14}
+        - {x: 14, y: 15}
+    - name: NES - Mega Man 2 - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 717
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 717
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 761
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 755
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 757
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 710
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 710
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 710
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 710
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 15}
+        - {x: 9.5, y: 11}
+        - {x: 12.5, y: 15}
+        - {x: 12.5, y: 17}
+        - {x: 11.5, y: 19}
+        - {x: -5.5, y: 19}
+        - {x: -15.5, y: 11}
+        - {x: -15.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 18.5, y: -17}
+        - {x: 18.5, y: 14}
+        - {x: 16.5, y: 15}
+      - - {x: -18.5, y: 4}
+        - {x: -15.5, y: 5}
+        - {x: -15.5, y: 12}
+        - {x: -17.5, y: 14}
+        - {x: -18.5, y: 14}
+    - name: NES - Mega Man 2 - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 741
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 721
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 718
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 721
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 677
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 677
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 678
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 684
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 683
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 682
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 635
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 635
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 599
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 0.5}
+        - {x: 7, y: 2.5}
+        - {x: 9, y: 1.5}
+        - {x: 12, y: 0.5}
+        - {x: 16, y: 6.5}
+        - {x: 16, y: 10.5}
+        - {x: 14, y: 14.5}
+        - {x: 16, y: 19.5}
+        - {x: 16, y: 21.5}
+        - {x: 13, y: 29.5}
+        - {x: 12, y: 30.5}
+        - {x: -8, y: 30.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -30.5}
+        - {x: 13, y: -30.5}
+        - {x: 16, y: -26.5}
+        - {x: 16, y: -2.5}
+        - {x: 11, y: 0.5}
+    - name: NES - Mega Man 2 - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 598
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 31}
+        - {x: -16, y: 9}
+        - {x: -16, y: -26}
+        - {x: -14, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 26}
+        - {x: 13, y: 31}
+    - name: NES - Mega Man 2 - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 632
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17.5}
+        - {x: -12, y: 16.5}
+        - {x: -20, y: 12.5}
+        - {x: -20, y: -14.5}
+        - {x: -17, y: -17.5}
+        - {x: 20, y: -17.5}
+        - {x: 20, y: 9.5}
+        - {x: 12, y: 17.5}
+    - name: NES - Mega Man 2 - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 633
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 16}
+        - {x: -20, y: -2}
+        - {x: -15, y: -16}
+        - {x: 20, y: -16}
+        - {x: 20, y: 15}
+        - {x: 19, y: 16}
+    - name: NES - Mega Man 2 - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 633
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -19.5, y: 14}
+        - {x: -19.5, y: -12}
+        - {x: -17.5, y: -16}
+        - {x: 19.5, y: -16}
+        - {x: 19.5, y: 4}
+        - {x: 13.5, y: 16}
+    - name: NES - Mega Man 2 - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 631
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: -12, y: -18}
+        - {x: 22, y: -18}
+        - {x: 22, y: 5}
+        - {x: 11, y: 18}
+        - {x: -10, y: 18}
+        - {x: -22, y: -1}
+        - {x: -22, y: -16}
+        - {x: -20, y: -18}
+        - {x: -16, y: -18}
+        - {x: -10, y: -13}
+        - {x: -10, y: -10}
+        - {x: -8, y: -12}
+    - name: NES - Mega Man 2 - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 632
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -16, y: 11.5}
+        - {x: -16, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 5, y: 17.5}
+    - name: NES - Mega Man 2 - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 631
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -9.5}
+        - {x: 9, y: -10.5}
+        - {x: 11, y: -9.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: -5.5}
+        - {x: 6, y: 18.5}
+        - {x: -16, y: 18.5}
+        - {x: -16, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: -14.5}
+        - {x: 15, y: -12.5}
+    - name: NES - Mega Man 2 - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -13}
+        - {x: -11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 13}
+        - {x: 11, y: 16}
+    - name: NES - Mega Man 2 - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 594
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 12}
+        - {x: 9, y: 16}
+    - name: NES - Mega Man 2 - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+    - name: NES - Mega Man 2 - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 594
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 593
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 13}
+        - {x: 8, y: 16}
+    - name: NES - Mega Man 2 - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 615
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 603
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 589
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 593
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 558
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 556
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 565
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 564
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 561
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 518
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 518
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 516
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 525
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 524
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 521
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 476
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 481
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 484
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 480
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 474
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 473
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 16}
+        - {x: -18.5, y: -16}
+        - {x: 18.5, y: -16}
+        - {x: 18.5, y: 16}
+    - name: NES - Mega Man 2 - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 436
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 444
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 444
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 440
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 429
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 431
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -20, y: 10.5}
+        - {x: -20, y: -18.5}
+        - {x: 20, y: -18.5}
+        - {x: 20, y: 7.5}
+        - {x: 8, y: 18.5}
+    - name: NES - Mega Man 2 - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 431
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -17, y: 17.5}
+        - {x: -17, y: -17.5}
+        - {x: -14, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 17, y: 13.5}
+        - {x: 8, y: 18.5}
+    - name: NES - Mega Man 2 - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 396
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 401
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 27}
+        - {x: -3, y: 40}
+        - {x: -32, y: 40}
+        - {x: -37, y: 27}
+        - {x: -29, y: 24}
+        - {x: -24, y: 24}
+        - {x: -19, y: 29}
+        - {x: -22, y: 25}
+        - {x: -29, y: 22}
+        - {x: -47, y: 21}
+        - {x: -56, y: -10}
+        - {x: -56, y: -35}
+        - {x: -50, y: -40}
+        - {x: 56, y: -40}
+        - {x: 56, y: -5}
+        - {x: 51, y: -4}
+    - name: NES - Mega Man 2 - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 309
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 27}
+        - {x: -3, y: 40}
+        - {x: -32, y: 40}
+        - {x: -37, y: 27}
+        - {x: -29, y: 24}
+        - {x: -24, y: 24}
+        - {x: -19, y: 29}
+        - {x: -22, y: 25}
+        - {x: -29, y: 22}
+        - {x: -47, y: 21}
+        - {x: -56, y: -10}
+        - {x: -56, y: -35}
+        - {x: -49, y: -40}
+        - {x: 56, y: -40}
+        - {x: 56, y: -5}
+        - {x: 51, y: -4}
+    - name: NES - Mega Man 2 - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 343
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -20, y: 22}
+        - {x: -23, y: 18}
+        - {x: -23, y: -26}
+        - {x: 20, y: -26}
+        - {x: 23, y: -13}
+        - {x: 23, y: 4}
+        - {x: 6, y: 26}
+    - name: NES - Mega Man 2 - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 317
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 282
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -21, y: 22}
+        - {x: -21, y: -28}
+        - {x: 21, y: -28}
+        - {x: 21, y: 25}
+        - {x: 18, y: 28}
+    - name: NES - Mega Man 2 - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 32}
+        - {x: -56, y: -13}
+        - {x: -56, y: -29}
+        - {x: -51, y: -32}
+        - {x: 56, y: -32}
+        - {x: 56, y: 6}
+        - {x: 50, y: 32}
+    - name: NES - Mega Man 2 - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 27}
+        - {x: -3, y: 40}
+        - {x: -32, y: 40}
+        - {x: -37, y: 27}
+        - {x: -29, y: 24}
+        - {x: -24, y: 24}
+        - {x: -19, y: 29}
+        - {x: -22, y: 25}
+        - {x: -29, y: 22}
+        - {x: -47, y: 21}
+        - {x: -56, y: -10}
+        - {x: -56, y: -35}
+        - {x: -49, y: -40}
+        - {x: 56, y: -40}
+        - {x: 56, y: -5}
+        - {x: 51, y: -4}
+    - name: NES - Mega Man 2 - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 27}
+        - {x: -3, y: 40}
+        - {x: -32, y: 40}
+        - {x: -37, y: 27}
+        - {x: -29, y: 24}
+        - {x: -24, y: 24}
+        - {x: -19, y: 29}
+        - {x: -22, y: 25}
+        - {x: -29, y: 22}
+        - {x: -47, y: 21}
+        - {x: -56, y: -10}
+        - {x: -56, y: -35}
+        - {x: -50, y: -40}
+        - {x: 56, y: -40}
+        - {x: 56, y: -5}
+        - {x: 51, y: -4}
+    - name: NES - Mega Man 2 - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 32}
+        - {x: -9.5, y: 32}
+        - {x: -19.5, y: 18}
+        - {x: -19.5, y: -32}
+        - {x: 19.5, y: -32}
+        - {x: 19.5, y: 23}
+        - {x: 11.5, y: 30}
+    - name: NES - Mega Man 2 - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -22}
+        - {x: 14.5, y: -30}
+        - {x: 33.5, y: -30}
+        - {x: 33.5, y: 24}
+        - {x: 28.5, y: 30}
+        - {x: 19.5, y: 30}
+        - {x: 15.5, y: 26}
+        - {x: 15.5, y: 23}
+        - {x: -2.5, y: 22}
+        - {x: -23.5, y: 15}
+        - {x: -33.5, y: 3}
+        - {x: -33.5, y: -30}
+        - {x: 13.5, y: -30}
+        - {x: 13.5, y: -26}
+        - {x: 12.5, y: -24}
+        - {x: 17.5, y: -19}
+    - name: NES - Mega Man 2 - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -20}
+        - {x: 14.5, y: -28}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: 25}
+        - {x: 27.5, y: 28}
+        - {x: -6.5, y: 28}
+        - {x: -33.5, y: 10}
+        - {x: -33.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 13.5, y: -24}
+        - {x: 12.5, y: -22}
+        - {x: 17.5, y: -17}
+    - name: NES - Mega Man 2 - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 27.5}
+        - {x: -24.5, y: 16.5}
+        - {x: -31.5, y: -6.5}
+        - {x: -33.5, y: -17.5}
+        - {x: -33.5, y: -27.5}
+        - {x: 33.5, y: -27.5}
+        - {x: 33.5, y: 24.5}
+        - {x: 26.5, y: 27.5}
+    - name: NES - Mega Man 2 - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 155
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 27.5}
+        - {x: -30.5, y: 22.5}
+        - {x: -33.5, y: -11.5}
+        - {x: -33.5, y: -27.5}
+        - {x: 33.5, y: -27.5}
+        - {x: 33.5, y: 21.5}
+        - {x: 30.5, y: 27.5}
+    - name: NES - Mega Man 2 - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -20}
+        - {x: 14.5, y: -28}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: 10}
+        - {x: 32.5, y: 24}
+        - {x: 25.5, y: 28}
+        - {x: -5.5, y: 28}
+        - {x: -33.5, y: 2}
+        - {x: -33.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 13.5, y: -24}
+        - {x: 18.5, y: -15}
+    - name: NES - Mega Man 2 - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40}
+        - {x: -40, y: -37}
+        - {x: -38, y: -40}
+        - {x: 38, y: -40}
+        - {x: 40, y: -37}
+        - {x: 40, y: 40}
+    - name: NES - Mega Man 2 - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40}
+        - {x: -40, y: -37}
+        - {x: -38, y: -40}
+        - {x: 38, y: -40}
+        - {x: 40, y: -37}
+        - {x: 40, y: 40}
+    - name: NES - Mega Man 2 - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 47.5}
+        - {x: -40, y: 37.5}
+        - {x: -40, y: -47.5}
+        - {x: 40, y: -47.5}
+        - {x: 40, y: 47.5}
+    - name: NES - Mega Man 2 - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 47.5}
+        - {x: -40, y: 37.5}
+        - {x: -40, y: -47.5}
+        - {x: 40, y: -47.5}
+        - {x: 40, y: 47.5}
+    - name: NES - Mega Man 2 - Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 60
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 34.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -6.5}
+        - {x: -18, y: -15.5}
+        - {x: -1, y: -34.5}
+        - {x: 23, y: -34.5}
+        - {x: 23, y: 32.5}
+        - {x: 18, y: 34.5}
+    - name: NES - Mega Man 2 - Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 58
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 36}
+        - {x: -17, y: 31}
+        - {x: -21, y: 25}
+        - {x: -21, y: -33}
+        - {x: -18, y: -36}
+        - {x: 8, y: -36}
+        - {x: 21, y: -26}
+        - {x: 21, y: 31}
+        - {x: 15, y: 36}
+    - name: NES - Mega Man 2 - Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 18.5}
+        - {x: -20.5, y: 11.5}
+        - {x: -20.5, y: -7.5}
+        - {x: -15.5, y: -18.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 1.5}
+        - {x: 14.5, y: 18.5}
+    - name: NES - Mega Man 2 - Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21}
+        - {x: -19.5, y: 14}
+        - {x: -19.5, y: -3}
+        - {x: -7.5, y: -21}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 17}
+        - {x: 16.5, y: 21}
+    - name: NES - Mega Man 2 - Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -12.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 4.5, y: 23.5}
+    - name: NES - Mega Man 2 - Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25}
+        - {x: -16.5, y: 7}
+        - {x: -16.5, y: -17}
+        - {x: -8.5, y: -25}
+        - {x: 16.5, y: -25}
+        - {x: 16.5, y: 10}
+        - {x: 8.5, y: 25}
+    - name: NES - Mega Man 2 - Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -16.5, y: 4}
+        - {x: -16.5, y: -16}
+        - {x: -14.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 16.5, y: 19}
+        - {x: 11.5, y: 21}
+    - name: NES - Mega Man 2 - Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Mega Man 2 - Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -20, y: 20}
+        - {x: -20, y: -4}
+        - {x: -13, y: -22}
+        - {x: 18, y: -22}
+        - {x: 20, y: -21}
+        - {x: 20, y: 19}
+        - {x: 14, y: 22}
+    - name: NES - Mega Man 2 - Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 22}
+        - {x: -14, y: 22}
+        - {x: -20, y: 15}
+        - {x: -20, y: -6}
+        - {x: -9, y: -22}
+        - {x: 19, y: -22}
+        - {x: 20, y: -17}
+        - {x: 20, y: 14}
+        - {x: 10, y: 21}
+      - - {x: -20, y: -9}
+        - {x: -17, y: -8}
+        - {x: -17, y: -3}
+        - {x: -19, y: -1}
+        - {x: -20, y: -1}
+    - name: NES - Mega Man 2 - Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23}
+        - {x: -20, y: 21}
+        - {x: -20, y: -7}
+        - {x: -12, y: -23}
+        - {x: 10, y: -23}
+        - {x: 20, y: -16}
+        - {x: 20, y: 17}
+        - {x: 12, y: 23}
+    - name: NES - Mega Man 2 - Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -20, y: -10}
+        - {x: -12, y: -23}
+        - {x: 17, y: -23}
+        - {x: 20, y: -20}
+        - {x: 20, y: 14}
+        - {x: 16, y: 23}
+    - name: NES - Mega Man 2 - Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -18.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -8.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 18.5, y: -18}
+        - {x: 18.5, y: 11}
+        - {x: 15.5, y: 20}
+    - name: NES - Mega Man 2 - Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: -18.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -11.5, y: -17}
+        - {x: -2.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 18.5, y: 10}
+        - {x: 14.5, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
